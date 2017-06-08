@@ -1,0 +1,62 @@
+ .feed {
+ 	width: 600px;
+ 	height: 600px;
+ 	position: relative;
+ 	border: 1px solid black;
+ }
+ .red-left-top {
+ 	height: 200px;
+ 	width: 200px;
+ 	background: rgb(133, 0, 0);
+ 	position: absolute;
+ }
+ .red-left-bottom {
+ 	height: 200px;
+ 	width: 200px;
+ 	background: rgb(133, 0, 0);
+ 	position: absolute;
+ 	top: 400px;
+ 	left: 0px;
+ }
+ .red-center {
+	height: 200px;
+ 	width: 200px;
+ 	background: rgb(133, 0, 0);
+ 	position: absolute;
+ 	top: 200px;
+ 	left: 200px;
+ }
+ .red-right-top {
+	height: 200px;
+ 	width: 200px;
+ 	background: rgb(133, 0, 0);
+ 	position: absolute;
+ 	left: 400px;
+ }
+ .red-right-bottom {
+	height: 200px;
+ 	width: 200px;
+ 	background: rgb(133, 0, 0);
+ 	position: absolute;
+ 	top: 400px;
+ 	left: 400px;
+ }
+ .white_rook-512 {
+ 	position: absolute;
+ 	top: 406px;
+ 	left: 214px;
+ 	width: 184px;
+ }
+ .white_knight-512 {
+ 	width: 184px;
+ 	position: absolute;
+ 	top: 200px;
+ 	left: 8px;
+
+ }
+ .black_bishop-512 {
+ 	width: 184px;
+ 	position: absolute;
+ 	left: 211px;
+ 	top: 5px;
+ }
